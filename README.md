@@ -17,6 +17,7 @@ My background in economics shapes how I approach all of this: not just technical
 * ✉️  You can contact me at [gabrielpreite20000@gmail.com](mailto:gabrielpreite20000@gmail.com)
 * 🚀  I'm currently working on [Sales forecasting system](http://github.com/gabrielpreite0210/sales-analysis-forecast-system)
 * 🧠  I'm currently learning : 📊Tableau, 🤖Multimodal RAG & AWS SageMaker
+* ⚡  Anything else: I'm secretly Batman… but don't tell anyone
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" title="Supabase" width="36" height="36" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" /></a>
@@ -29,4 +30,4 @@ My background in economics shapes how I approach all of this: not just technical
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/gabrielpreite0210"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielpreite0210&stroke=0f172a&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=0f172a&currStreakLabel=0891b2&sideNums=0f172a&sideLabels=0f172a&dates=0f172a&hide_border=true" /></a>
+<a href="http://www.github.com/gabrielpreite0210"><img src="https://github-readme-stats.vercel.app/api?username=gabrielpreite0210&show_icons=true&hide=stars,commits,prs,issues,contribs&title_color=0891b2&text_color=0f172a&icon_color=64748b&bg_color=1c1917&hide_border=true&show_icons=true" alt="gabrielpreite0210's GitHub stats" /></a>
