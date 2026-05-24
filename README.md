@@ -30,4 +30,4 @@ My background in economics shapes how I approach all of this: not just technical
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/gabrielpreite0210"><img src="https://github-readme-stats.vercel.app/api?username=gabrielpreite0210&show_icons=true&hide=stars,commits,prs,issues,contribs&title_color=0891b2&text_color=0f172a&icon_color=64748b&bg_color=1c1917&hide_border=true&show_icons=true" alt="gabrielpreite0210's GitHub stats" /></a>
+<a href="http://www.github.com/gabrielpreite0210"><img src="https://github-readme-stats.vercel.app/api?username=gabrielpreite0210&show_icons=true&hide=stars,prs,issues,contribs&title_color=0891b2&text_color=000000&icon_color=64748b&bg_color=1c1917&hide_border=true&show_icons=true" alt="gabrielpreite0210's GitHub stats" /></a>
