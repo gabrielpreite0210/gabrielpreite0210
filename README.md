@@ -8,7 +8,7 @@ I am a Data Analyst first and foremost.
 
 Data is the foundation of every system, decision, and intelligent application — without a deep understanding of data, nothing meaningful can be built.
 
-From there, I extend into Machine Learning and AI development, I see data analysis and AI/ML as deeply interconnected — insights become the foundation for building intelligent systems focused on what truly matters and delivers real value.
+From there, I extend into Machine Learning development, I see data analysis and AI/ML as deeply interconnected — insights become the foundation for building intelligent systems focused on what truly matters and delivers real value.
 
 My background in economics shapes how I approach all of this: not just technically, but with a constant focus on context and measurable impact.
 
@@ -16,7 +16,7 @@ My background in economics shapes how I approach all of this: not just technical
 * 🖥️  See my portfolio at [MyPortfolio](http://gabrielpreite0210.github.io/)
 * ✉️  You can contact me at [gabrielpreite20000@gmail.com](mailto:gabrielpreite20000@gmail.com)
 * 🚀  I'm currently working on [Sales forecasting system](http://github.com/gabrielpreite0210/sales-analysis-forecast-system)
-* 🧠  I'm currently learning : 🤖Multimodal RAG
+* 🧠  I'm currently learning : 🤖TensorFlow & Multimodal RAG
 * ⚡  Anything else: I'm secretly Batman… but don't tell anyone
 
 <p align="left">
